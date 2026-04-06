@@ -13,6 +13,3 @@ This project implements an **agentic system** that integrates a local LLM (Ollam
 - **Local LLM (Ollama)**: Provides reasoning and natural language understanding.
 - **Vector Search**: Uses embeddings for semantic search in memory.
 
----
-
-## Project Structure
